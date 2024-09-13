@@ -35,4 +35,3 @@ This project involves building a comprehensive book recommendation system using 
 
 ---
 
-This description should work well for uploading to GitHub!
